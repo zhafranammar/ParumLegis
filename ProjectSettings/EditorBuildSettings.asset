@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KorupsiLevel3.unity
     guid: 806033e1aef6de443be33d4eb81cce01
+  - enabled: 1
+    path: Assets/Scenes/AO Korupsi 1.unity
+    guid: 5597c7c4f32f82f47914799ad951a437
+  - enabled: 1
+    path: Assets/Scenes/AO Korupsi 2.unity
+    guid: 7d83bf2d3f3afd04d8a226c4c7213d2c
+  - enabled: 1
+    path: Assets/Scenes/AO Korupsi 3.unity
+    guid: d30d6af850bb90448bb2d38fcdcf3725
   m_configObjects: {}

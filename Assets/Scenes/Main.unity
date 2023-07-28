@@ -205,7 +205,7 @@ GameObject:
   - component: {fileID: 642258660}
   - component: {fileID: 642258663}
   m_Layer: 5
-  m_Name: Pembunuhan
+  m_Name: Korupsi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -218,16 +218,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 642258658}
-  m_LocalRotation: {x: 0, y: 0, z: 0.019895403, w: 0.99980205}
+  m_LocalRotation: {x: 0, y: 0, z: -0.023210797, w: 0.99973065}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.75, y: 3.75, z: 3.75}
+  m_LocalScale: {x: 4.42, y: 4.42, z: 4.42}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1854308742}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 2.28}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2.66}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 769, y: 150}
+  m_AnchoredPosition: {x: 167, y: 291}
   m_SizeDelta: {x: 120, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &642258660
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4aef8c4ee278e4c44b45af3f89f5c0c1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 873a426920a59c448b32b7eec084ebca, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
