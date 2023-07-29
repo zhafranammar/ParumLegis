@@ -32,4 +32,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AO Korupsi 3.unity
     guid: d30d6af850bb90448bb2d38fcdcf3725
+  - enabled: 1
+    path: Assets/Scenes/LaluLintasMenu.unity
+    guid: c20d5ed275a9e8b48bada802b5b2f681
+  - enabled: 1
+    path: Assets/Scenes/NarkobaMenu.unity
+    guid: 9e3866d89d341ac40a19c9e31f19ca79
+  - enabled: 1
+    path: Assets/Scenes/PembunuhanMenu.unity
+    guid: f281095780e1b324eb6cc349b0b1985f
   m_configObjects: {}
