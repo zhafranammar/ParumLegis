@@ -39,6 +39,13 @@ public class goToScene : MonoBehaviour
         }
     }
 
+    public void RestartScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        // Load ulang scene dengan index yang sama
+        SceneManager.LoadScene(currentSceneIndex);
+    }
+
     public void OnMouseDown()
     {
         ChangeScene();

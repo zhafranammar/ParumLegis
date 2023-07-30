@@ -45,6 +45,24 @@ EditorBuildSettings:
     path: Assets/Scenes/Pembunuhan Level 2.unity
     guid: ecf53960ba447eb488bfb13a7eb08238
   - enabled: 1
+    path: Assets/Scenes/Pembunuhan Level 2 Sublevel 1.unity
+    guid: 5dd939d04da5c7a4aa75a9d80c622f18
+  - enabled: 1
+    path: Assets/Scenes/Pembunuhan Level 2 Sublevel 2.unity
+    guid: 1cde3a941c2fe494896f659f5bb8ec51
+  - enabled: 1
+    path: Assets/Scenes/Pembunuhan Level 3.unity
+    guid: 600c74cc227afba4e923c8a065b61f66
+  - enabled: 1
+    path: Assets/Scenes/Pembunuhan Level 3 Sublevel 1.unity
+    guid: 5dcc6d27568e8bc43afaec9c1efcea6c
+  - enabled: 1
+    path: Assets/Scenes/Pembunuhan Level 3 Sublevel 2.unity
+    guid: 271f1faf949ccb94d87d52284c7bf699
+  - enabled: 1
+    path: Assets/Scenes/Complete Pembunuhan.unity
+    guid: 52f3fa6c3c218a14b833d82347dbfee3
+  - enabled: 1
     path: Assets/Scenes/LaluLintasMenu.unity
     guid: c20d5ed275a9e8b48bada802b5b2f681
   m_configObjects: {}
