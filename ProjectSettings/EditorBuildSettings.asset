@@ -6,20 +6,83 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AO Korupsi 1.unity
-    guid: 5597c7c4f32f82f47914799ad951a437
-  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 9cd125b8e9ce79b4790720ff0930bdc2
   - enabled: 1
     path: Assets/Scenes/KorupsiMenu.unity
     guid: c3bb6226dc66164418cbd7fa16e27391
   - enabled: 1
-    path: Assets/Scenes/LaluLintasMenu.unity
-    guid: c20d5ed275a9e8b48bada802b5b2f681
+    path: Assets/Scenes/AO Korupsi 1.unity
+    guid: 5597c7c4f32f82f47914799ad951a437
+  - enabled: 1
+    path: Assets/Scenes/KorupsiLevel1.unity
+    guid: 02af29214dc881148b0c702d3ee87354
+  - enabled: 1
+    path: Assets/Scenes/AO Korupsi 2.unity
+    guid: 7d83bf2d3f3afd04d8a226c4c7213d2c
+  - enabled: 1
+    path: Assets/Scenes/KorupsiLevel2.unity
+    guid: c778f8fd7938eba4f80f60a80e1fdd12
+  - enabled: 1
+    path: Assets/Scenes/AO Korupsi 3.unity
+    guid: d30d6af850bb90448bb2d38fcdcf3725
+  - enabled: 1
+    path: Assets/Scenes/KorupsiLevel3.unity
+    guid: 806033e1aef6de443be33d4eb81cce01
+  - enabled: 1
+    path: Assets/Scenes/Complete Korupsi.unity
+    guid: aeaeb8ff62fb75c4f8df0edd1a517314
   - enabled: 1
     path: Assets/Scenes/NarkobaMenu.unity
     guid: 9e3866d89d341ac40a19c9e31f19ca79
+  - enabled: 1
+    path: Assets/Scenes/AO Narkoba 1.unity
+    guid: 3b7900d6cd2f2134ca4fc954d9c134b6
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 1.unity
+    guid: 9c81592cfbcd1bb4bbb38dc7fe8af831
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 1 Sublevel 1.unity
+    guid: 2ac6f1bfa675209438d80f53afbe1f05
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 1 Sublevel 2.unity
+    guid: 82dc0415f9fd9884fbb21695324b66d8
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 1 Sublevel 3.unity
+    guid: fa67ad03f666e2f40a90aa1e7c9f3dd3
+  - enabled: 1
+    path: Assets/Scenes/AO Narkoba 2.unity
+    guid: 88af6015fe3351242a9b99dcbd9bfe31
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 2.unity
+    guid: 38045dbbbc9952a43a7a71f9d871331e
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 2 Sublevel 1.unity
+    guid: 117b0ecd395284c45828197e9c1c693c
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 2 Sublevel 2.unity
+    guid: c62043d077e6337469b2a5c73f2f6425
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 2 Sublevel 3.unity
+    guid: a6f8348bfd15bc74db74305d2e40d9b2
+  - enabled: 1
+    path: Assets/Scenes/AO Narkoba 3.unity
+    guid: d9b830cf811d1ae44b95b94c44ae960b
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 3.unity
+    guid: 508e112c5370efc4db6ba143715933a0
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 3 Sublevel 1.unity
+    guid: 79dd5ca72744ce84fbcff25f9fde9594
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 3 Sublevel 2.unity
+    guid: 225d1d7837ca53e49a6e36e4a7b845e9
+  - enabled: 1
+    path: Assets/Scenes/Narkoba Level 3 Sublevel 3.unity
+    guid: 5fd31a78f8fa7a54f819c85873ea046a
+  - enabled: 1
+    path: Assets/Scenes/PembunuhanMenu.unity
+    guid: f281095780e1b324eb6cc349b0b1985f
   - enabled: 1
     path: Assets/Scenes/Pembunuhan Level 1.unity
     guid: 83929e72537089240a9b3aa350a0ff0f
@@ -44,42 +107,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Complete Pembunuhan.unity
     guid: 52f3fa6c3c218a14b833d82347dbfee3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LaluLintasMenu.unity
     guid: c20d5ed275a9e8b48bada802b5b2f681
-    path: Assets/Scenes/Pembunuhan Level 3.unity
-    guid: 600c74cc227afba4e923c8a065b61f66
-  - enabled: 1
-    path: Assets/Scenes/PembunuhanMenu.unity
-    guid: f281095780e1b324eb6cc349b0b1985f
-  - enabled: 1
-    path: Assets/Scenes/AO Korupsi 2.unity
-    guid: 7d83bf2d3f3afd04d8a226c4c7213d2c
-  - enabled: 1
-    path: Assets/Scenes/AO Korupsi 3.unity
-    guid: d30d6af850bb90448bb2d38fcdcf3725
-  - enabled: 1
-    path: Assets/Scenes/AO Narkoba 1.unity
-    guid: 3b7900d6cd2f2134ca4fc954d9c134b6
-  - enabled: 1
-    path: Assets/Scenes/AO Narkoba 2.unity
-    guid: 88af6015fe3351242a9b99dcbd9bfe31
-  - enabled: 1
-    path: Assets/Scenes/AO Narkoba 3.unity
-    guid: d9b830cf811d1ae44b95b94c44ae960b
-  - enabled: 1
-    path: Assets/Scenes/Complete Korupsi.unity
-    guid: aeaeb8ff62fb75c4f8df0edd1a517314
-  - enabled: 1
-    path: Assets/Scenes/KorupsiLevel1.unity
-    guid: 02af29214dc881148b0c702d3ee87354
-  - enabled: 1
-    path: Assets/Scenes/KorupsiLevel2.unity
-    guid: c778f8fd7938eba4f80f60a80e1fdd12
-  - enabled: 1
-    path: Assets/Scenes/KorupsiLevel3.unity
-    guid: 806033e1aef6de443be33d4eb81cce01
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
