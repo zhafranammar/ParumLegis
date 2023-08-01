@@ -336,7 +336,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: c3bb6226dc66164418cbd7fa16e27391, type: 3}
+  sceneNameToLoad: KorupsiMenu
 --- !u!1 &735263783
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,7 +463,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: c20d5ed275a9e8b48bada802b5b2f681, type: 3}
+  sceneNameToLoad: LaluLintasMenu
 --- !u!114 &1051930736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -471,7 +471,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051930733}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: f281095780e1b324eb6cc349b0b1985f, type: 3}
+  sceneNameToLoad: PembunuhanMenu
 --- !u!114 &1892776282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1009,7 +1009,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 9e3866d89d341ac40a19c9e31f19ca79, type: 3}
+  sceneNameToLoad: NarkobaMenu
 --- !u!114 &2043281610
 MonoBehaviour:
   m_ObjectHideFlags: 0

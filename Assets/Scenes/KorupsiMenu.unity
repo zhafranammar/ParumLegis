@@ -175,7 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: d30d6af850bb90448bb2d38fcdcf3725, type: 3}
+  sceneNameToLoad: AO Korupsi 3
 --- !u!114 &112047174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1213,7 +1213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 5597c7c4f32f82f47914799ad951a437, type: 3}
+  sceneNameToLoad: AO Korupsi 1
 --- !u!1 &1810848388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1400,7 +1400,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 7d83bf2d3f3afd04d8a226c4c7213d2c, type: 3}
+  sceneNameToLoad: AO Korupsi 2
 --- !u!114 &1876295393
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -931,7 +931,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 5dcc6d27568e8bc43afaec9c1efcea6c, type: 3}
+  sceneNameToLoad: Pembunuhan Level 3 Sublevel 1
 --- !u!1 &1810848388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1118,7 +1118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 271f1faf949ccb94d87d52284c7bf699, type: 3}
+  sceneNameToLoad: Pembunuhan Level 3 Sublevel 2
 --- !u!114 &1876295393
 MonoBehaviour:
   m_ObjectHideFlags: 0

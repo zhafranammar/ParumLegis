@@ -764,7 +764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 049dbbc0ba3fbaa4eb64a2fca3054cf8, type: 3}
+  sceneNameToLoad: LaluLintas Level 3
 --- !u!114 &1839398977
 MonoBehaviour:
   m_ObjectHideFlags: 0

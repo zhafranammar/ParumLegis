@@ -1,41 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class goToScene : MonoBehaviour
 {
-    public SceneAsset sceneNameToLoad;
-    
+    public string sceneNameToLoad;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void ChangeScene()
     {
-        // Menggunakan asset path dari SceneAsset untuk memuat scene
-        if (sceneNameToLoad != null)
+        if (!string.IsNullOrEmpty(sceneNameToLoad))
         {
-            string scenePath = AssetDatabase.GetAssetPath(sceneNameToLoad);
-            SceneAsset sceneAsset = AssetDatabase.LoadAssetAtPath<SceneAsset>(scenePath);
-            if (sceneAsset != null)
-            {
-                string sceneName = sceneAsset.name;
-                SceneManager.LoadScene(sceneName);
-            }
+            SceneManager.LoadScene(sceneNameToLoad);
         }
         else
         {
-            Debug.LogError("SceneAsset belum di-set. Seret scene ke variable sceneNameToLoad pada Inspector.");
+            Debug.LogError("Nama scene belum di-set. Masukkan nama scene yang ingin dimuat pada Inspector.");
         }
     }
 

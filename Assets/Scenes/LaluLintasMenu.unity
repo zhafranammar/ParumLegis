@@ -175,7 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: f7a3e1ca1f8b46f4391b538ab5522a5f, type: 3}
+  sceneNameToLoad: LaluLintas Animasi 3
 --- !u!114 &112047174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1138,7 +1138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 6ce90082d02af4a4bae97959facf7f82, type: 3}
+  sceneNameToLoad: LaluLintas Animasi 1
 --- !u!1 &1810848388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,7 +1325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 74ecb53846c1c894bb7aac7fd0391512, type: 3}
+  sceneNameToLoad: LaluLintas Animasi 2
 --- !u!114 &1876295393
 MonoBehaviour:
   m_ObjectHideFlags: 0

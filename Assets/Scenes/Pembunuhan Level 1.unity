@@ -882,7 +882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 2368cabdb8ae6e346b7fa4884333fe9f, type: 3}
+  sceneNameToLoad: Pembunuhan Level 2
 --- !u!114 &1319328451
 MonoBehaviour:
   m_ObjectHideFlags: 0

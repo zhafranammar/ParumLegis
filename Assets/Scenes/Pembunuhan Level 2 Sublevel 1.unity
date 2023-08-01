@@ -861,7 +861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 1cde3a941c2fe494896f659f5bb8ec51, type: 3}
+  sceneNameToLoad: Pembunuhan Level 2 Sublevel 2
 --- !u!1 &339108483
 GameObject:
   m_ObjectHideFlags: 0
@@ -947,7 +947,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 339108488}
         m_TargetAssemblyTypeName: goToScene, Assembly-CSharp
-        m_MethodName: ChangeScene
+        m_MethodName: RestartScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 5dd939d04da5c7a4aa75a9d80c622f18, type: 3}
+  sceneNameToLoad: 
 --- !u!1 &378956616
 GameObject:
   m_ObjectHideFlags: 0

@@ -1548,7 +1548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: aeaeb8ff62fb75c4f8df0edd1a517314, type: 3}
+  sceneNameToLoad: Complete Korupsi
 --- !u!212 &1158612089
 SpriteRenderer:
   m_ObjectHideFlags: 0
