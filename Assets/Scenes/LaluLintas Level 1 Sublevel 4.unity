@@ -498,7 +498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 0238998ea4d602b40826219b3345436d, type: 3}
+  sceneNameToLoad: LaluLintas Level 1 Penjelasan Sublevel 4
 --- !u!1 &339108483
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,7 +584,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 339108488}
         m_TargetAssemblyTypeName: goToScene, Assembly-CSharp
-        m_MethodName: ChangeScene
+        m_MethodName: RestartScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: {fileID: 102900000, guid: 032e59eaad48d7a4c92ee6b745d0c914, type: 3}
+  sceneNameToLoad: 
 --- !u!1 &378956616
 GameObject:
   m_ObjectHideFlags: 0
@@ -846,10 +846,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1980, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
