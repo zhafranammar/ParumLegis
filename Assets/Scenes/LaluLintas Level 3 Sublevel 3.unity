@@ -797,7 +797,6 @@ MonoBehaviour:
   optionButtons:
   - {fileID: 1444362557}
   - {fileID: 1517393834}
-  - {fileID: 0}
 --- !u!1 &555519337
 GameObject:
   m_ObjectHideFlags: 0
@@ -1644,7 +1643,6 @@ MonoBehaviour:
   optionButtons:
   - {fileID: 1517393834}
   - {fileID: 378956618}
-  - {fileID: 0}
 --- !u!1 &1476733991
 GameObject:
   m_ObjectHideFlags: 0
@@ -1865,7 +1863,6 @@ MonoBehaviour:
   optionButtons:
   - {fileID: 1444362557}
   - {fileID: 378956618}
-  - {fileID: 0}
 --- !u!1 &1636685254
 GameObject:
   m_ObjectHideFlags: 0
