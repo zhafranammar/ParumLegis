@@ -42,4 +42,9 @@ public class goToScene : MonoBehaviour
     {
         ChangeScene();
     }
+
+    public void UpLevel()
+    {
+
+    }
 }
