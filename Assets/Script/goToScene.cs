@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class goToScene : MonoBehaviour
 {
     public string sceneNameToLoad;
+    public int level;
 
     // Start is called before the first frame update
     void Start()
@@ -21,9 +22,10 @@ public class goToScene : MonoBehaviour
 
     public void ChangeScene()
     {
+        Debug.Log(UserManagement.maxLevel);
         if (!string.IsNullOrEmpty(sceneNameToLoad))
         {
-            SceneManager.LoadScene(sceneNameToLoad);
+            SceneManager.LoadScene(sceneNameToLoad);          
         }
         else
         {

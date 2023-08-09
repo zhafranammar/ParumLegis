@@ -337,6 +337,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: KorupsiMenu
+  level: 4
 --- !u!1 &735263783
 GameObject:
   m_ObjectHideFlags: 0
@@ -464,6 +465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: LaluLintasMenu
+  level: 0
 --- !u!114 &1051930736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -808,6 +810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: PembunuhanMenu
+  level: 0
 --- !u!114 &1892776282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1010,6 +1013,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: NarkobaMenu
+  level: 0
 --- !u!114 &2043281610
 MonoBehaviour:
   m_ObjectHideFlags: 0
