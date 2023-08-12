@@ -3329,7 +3329,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0185731b3216d4a808e1d4f042920b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNameToLoad: AO Narkoba 3
+  sceneNameToLoad: Narkoba Level 2 Sublevel 4
+  level: 0
 --- !u!114 &1442310845
 MonoBehaviour:
   m_ObjectHideFlags: 0
