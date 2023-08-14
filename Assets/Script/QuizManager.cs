@@ -27,7 +27,6 @@ public class QuizManager : MonoBehaviour
 
     private void Awake()
     {
-        Debug.Log("1");
         if (instance == null)
             instance = this;
         else

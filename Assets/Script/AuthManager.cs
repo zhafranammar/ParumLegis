@@ -87,7 +87,7 @@ public class AuthManager : MonoBehaviour
                 ApiResponse response = JsonUtility.FromJson<ApiResponse>(webRequest.downloadHandler.text);
                 if (response.code == 200)
                 {
-                    GetUserAttributes(response.data.user_id);
+                    UserManagement.user_id = response.data.user_id;
                     SceneManager.LoadScene("Main");
                 }
                 else
@@ -99,41 +99,8 @@ public class AuthManager : MonoBehaviour
             {
                 Debug.Log("Login Failed");
                 Debug.LogError(webRequest.error);
+                warningLoginText.text = webRequest.error;
             }
         }
     }
-
-    public void GetUserAttributes(int userId)
-    {
-        string apiAction = "?action=get-user-attributes&user_id=" + userId;
-        string fullUrl = string.Concat(url, apiAction);
-
-        UnityWebRequest webRequest = new UnityWebRequest(fullUrl, "GET");
-        webRequest.downloadHandler = new DownloadHandlerBuffer();
-        webRequest.SetRequestHeader("Content-Type", "application/json");
-
-        UnityWebRequestAsyncOperation asyncOperation = webRequest.SendWebRequest();
-        asyncOperation.completed += (op) =>
-        {
-            if (!webRequest.isNetworkError && !webRequest.isHttpError)
-            {
-                ApiResponse response = JsonUtility.FromJson<ApiResponse>(webRequest.downloadHandler.text);
-                if (response.code == 200)
-                {
-                    UserManagement.maxLevel = response.data.maxLevel;
-                    UserManagement.energy = response.data.energy;
-                }
-                else
-                {
-                    Debug.LogWarning("Gagal mengambil atribut pengguna: " + response.message);
-                }
-            }
-            else
-            {
-                Debug.LogError("Gagal mengambil atribut pengguna: " + webRequest.error);
-            }
-        };
-    }
-
-
 }
