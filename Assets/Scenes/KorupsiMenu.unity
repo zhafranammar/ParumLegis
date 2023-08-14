@@ -176,6 +176,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: AO Korupsi 3
+  level: 0
 --- !u!114 &112047174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1049,7 +1050,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fb79f4799608e9241a568df7cbf458be, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3bab56329b4e06e42b7d4384130c9653, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1214,6 +1215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: AO Korupsi 1
+  level: 0
 --- !u!1 &1810848388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1401,6 +1403,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: AO Korupsi 2
+  level: 0
 --- !u!114 &1876295393
 MonoBehaviour:
   m_ObjectHideFlags: 0

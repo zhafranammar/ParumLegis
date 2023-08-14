@@ -998,6 +998,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: Pembunuhan Level 3 Sublevel 2
+  level: 0
 --- !u!1 &339108483
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,6 +1145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneNameToLoad: 
+  level: 0
 --- !u!1 &378956616
 GameObject:
   m_ObjectHideFlags: 0
@@ -2119,7 +2121,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fb79f4799608e9241a568df7cbf458be, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bcbbc1c1bc40dac41a7989ea72db7706, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
